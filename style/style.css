@@ -1,0 +1,106 @@
+body{
+	margin: 0;
+	padding: 0;
+
+	background-image: url('../style/img/bg.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.main{
+	width: 65%;
+    height: 500px;
+
+	margin: 0 auto;
+	margin-top: 5%;
+
+	border: 1px solid;
+	background-color: #1F2227;
+	opacity:0.7;
+
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+}
+
+.container{
+	width: 60%;
+	height: 500px;
+
+	margin: 0 auto;
+}
+
+.first_half{
+	float: left;
+	margin-left: 10%;
+}
+.sec_half{
+	float: right;
+	margin-right: 10%;
+}
+
+label{
+	color: white;
+	font-size: 18px;
+}
+
+input{
+	width: 300px;
+	height: 40px;
+
+	display: flex;
+	border:none;
+	border-radius: 5px;
+	margin-bottom: 10px;
+
+
+	background-color: #403C3D;
+	color: white;
+
+	font-size: 18px;
+
+}
+select{
+	width: 300px;
+	height: 40px;
+
+	display: flex;
+	border:none;
+	border-radius: 5px;
+	margin-bottom: 10px;
+
+
+	background-color: #403C3D;
+	color: white;
+}
+.gender{
+	width: 50px;
+	height: 20px;
+	display: inline-flex;
+}
+
+#btn{
+	width: 100%;
+
+    display: inline-block;
+    margin-top: 5%;
+}
+
+#inputBtn{
+	margin: 0 auto;
+	place-content: center;
+
+	background-color: #D48FBB;
+
+}
+
+p{
+	color: red;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+

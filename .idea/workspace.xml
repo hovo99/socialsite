@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="daa1133d-192b-48a5-896c-3d6ba26ee51b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectId" id="1aMUXst0O9lLVCG4mExs2f8qjFT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daa1133d-192b-48a5-896c-3d6ba26ee51b" name="Default Changelist" comment="" />
+      <created>1551008957249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551008957249</updated>
+      <workItem from="1551008958413" duration="4941000" />
+      <workItem from="1551035694570" duration="607000" />
+      <workItem from="1551070622214" duration="1052000" />
+      <workItem from="1551080831729" duration="868000" />
+      <workItem from="1551082320624" duration="4162000" />
+      <workItem from="1551090795191" duration="4514000" />
+      <workItem from="1551115987967" duration="6153000" />
+      <workItem from="1551156850402" duration="6716000" />
+      <workItem from="1551204920710" duration="2775000" />
+      <workItem from="1551241700007" duration="2917000" />
+      <workItem from="1551421002253" duration="3261000" />
+      <workItem from="1551435323859" duration="3849000" />
+      <workItem from="1551550922897" duration="691000" />
+      <workItem from="1551552068362" duration="21000" />
+      <workItem from="1551552473784" duration="716000" />
+      <workItem from="1551611766857" duration="18379000" />
+      <workItem from="1551674959687" duration="3459000" />
+      <workItem from="1551694652472" duration="5420000" />
+      <workItem from="1551715643761" duration="1387000" />
+      <workItem from="1551761759342" duration="8930000" />
+      <workItem from="1551779486193" duration="929000" />
+      <workItem from="1552667407020" duration="2000" />
+      <workItem from="1554205931501" duration="43000" />
+      <workItem from="1555242725490" duration="1302000" />
+      <workItem from="1555267687938" duration="584000" />
+      <workItem from="1555313892253" duration="881000" />
+      <workItem from="1555314954841" duration="2611000" />
+      <workItem from="1555328974934" duration="851000" />
+      <workItem from="1555332159594" duration="4433000" />
+      <workItem from="1555503558151" duration="1027000" />
+      <workItem from="1555678130952" duration="10000" />
+      <workItem from="1555678142089" duration="79000" />
+      <workItem from="1555678223203" duration="30000" />
+      <workItem from="1556281540813" duration="5875000" />
+      <workItem from="1556356256656" duration="130000" />
+      <workItem from="1556539769114" duration="6256000" />
+      <workItem from="1556562801605" duration="475000" />
+      <workItem from="1556885256591" duration="4857000" />
+      <workItem from="1556907702095" duration="30000" />
+      <workItem from="1557144866105" duration="218000" />
+      <workItem from="1557145145582" duration="3235000" />
+      <workItem from="1557148479002" duration="2129000" />
+      <workItem from="1557320425247" duration="4287000" />
+      <workItem from="1557327467958" duration="45000" />
+      <workItem from="1557387087904" duration="1270000" />
+      <workItem from="1557489701752" duration="6352000" />
+      <workItem from="1557573168624" duration="22000" />
+      <workItem from="1557922791478" duration="5707000" />
+      <workItem from="1558096134261" duration="4522000" />
+      <workItem from="1586545001080" duration="1532000" />
+      <workItem from="1586611588770" duration="11000" />
+      <workItem from="1586771173779" duration="3283000" />
+      <workItem from="1586775700727" duration="3835000" />
+      <workItem from="1586880649346" duration="7856000" />
+      <workItem from="1586960602317" duration="17000" />
+      <workItem from="1587123316673" duration="10020000" />
+      <workItem from="1587395739369" duration="22000" />
+      <workItem from="1587405128229" duration="82000" />
+      <workItem from="1587405234301" duration="1312000" />
+      <workItem from="1587410552630" duration="1422000" />
+      <workItem from="1587563855067" duration="3000" />
+      <workItem from="1587565123855" duration="11000" />
+      <workItem from="1588006803279" duration="4928000" />
+      <workItem from="1588175560172" duration="3427000" />
+      <workItem from="1588508992037" duration="4110000" />
+      <workItem from="1588526679036" duration="23863000" />
+      <workItem from="1622054427821" duration="292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1622054427420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622054427420" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/Database.php</url>
+          <line>89</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
